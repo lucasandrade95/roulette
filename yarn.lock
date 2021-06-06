@@ -9314,6 +9314,11 @@ vue@2.6.11:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==
 
+vue@^2.6.11:
+  version "2.6.13"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.13.tgz#94b2c1b31fddf1dfcc34f28ec848ba8f01ea4c5b"
+  integrity sha512-O+pAdJkce1ooYS1XyoQtpBQr9An+Oys3w39rkqxukVO3ZD1ilYJkWBGoRuadiQEm2LLJnCL2utV4TMSf52ubjw==
+
 vuex@3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.4.0.tgz#20cc086062d750769fce1febb34e7fceeaebde45"
@@ -9737,9 +9742,9 @@ write@1.0.3:
     mkdirp "^0.5.1"
 
 ws@^6.0.0, ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
